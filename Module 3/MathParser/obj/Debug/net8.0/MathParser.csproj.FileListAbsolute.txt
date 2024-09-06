@@ -1,0 +1,14 @@
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\bin\Debug\net8.0\MathParser.exe
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\bin\Debug\net8.0\MathParser.deps.json
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\bin\Debug\net8.0\MathParser.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\bin\Debug\net8.0\MathParser.dll
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\bin\Debug\net8.0\MathParser.pdb
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\MathParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\MathParser.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\MathParser.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\MathParser.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\MathParser.dll
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\refint\MathParser.dll
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\MathParser.pdb
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\MathParser.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\IT 2040\Week 2\MathParser\obj\Debug\net8.0\ref\MathParser.dll
