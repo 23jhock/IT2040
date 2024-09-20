@@ -1,0 +1,14 @@
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/bin/Debug/net8.0/StringDemo
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/bin/Debug/net8.0/StringDemo.deps.json
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/bin/Debug/net8.0/StringDemo.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/bin/Debug/net8.0/StringDemo.dll
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/bin/Debug/net8.0/StringDemo.pdb
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/StringDemo.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/StringDemo.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/StringDemo.csproj.CoreCompileInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/StringDemo.dll
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/refint/StringDemo.dll
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/StringDemo.pdb
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/StringDemo.genruntimeconfig.cache
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/StringDemo/obj/Debug/net8.0/ref/StringDemo.dll
