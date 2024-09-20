@@ -1,0 +1,14 @@
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\bin\Debug\net8.0\RandomMusicPlaylist-V2.exe
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\bin\Debug\net8.0\RandomMusicPlaylist-V2.deps.json
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\bin\Debug\net8.0\RandomMusicPlaylist-V2.runtimeconfig.json
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\bin\Debug\net8.0\RandomMusicPlaylist-V2.dll
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\bin\Debug\net8.0\RandomMusicPlaylist-V2.pdb
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\RandomMusicPlaylist-V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\RandomMusicPlaylist-V2.AssemblyInfoInputs.cache
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\RandomMusicPlaylist-V2.AssemblyInfo.cs
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\RandomMusicPlaylist-V2.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\RandomMusicPlaylist-V2.dll
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\refint\RandomMusicPlaylist-V2.dll
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\RandomMusicPlaylist-V2.pdb
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\RandomMusicPlaylist-V2.genruntimeconfig.cache
+C:\Users\Jacob\Documents\1VS Code\IT2040-main\IT2040-main\Module 5\RandomMusicPlaylist-V2\obj\Debug\net8.0\ref\RandomMusicPlaylist-V2.dll
