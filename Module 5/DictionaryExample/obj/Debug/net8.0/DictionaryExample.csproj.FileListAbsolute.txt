@@ -1,0 +1,14 @@
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/bin/Debug/net8.0/DictionaryExample
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/bin/Debug/net8.0/DictionaryExample.deps.json
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/bin/Debug/net8.0/DictionaryExample.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/bin/Debug/net8.0/DictionaryExample.dll
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/bin/Debug/net8.0/DictionaryExample.pdb
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/DictionaryExample.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/DictionaryExample.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/DictionaryExample.csproj.CoreCompileInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/DictionaryExample.dll
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/refint/DictionaryExample.dll
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/DictionaryExample.pdb
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/DictionaryExample.genruntimeconfig.cache
+/Users/krcd58/Documents/IT-2040/FA2024/class-demos/DictionaryExample/obj/Debug/net8.0/ref/DictionaryExample.dll
