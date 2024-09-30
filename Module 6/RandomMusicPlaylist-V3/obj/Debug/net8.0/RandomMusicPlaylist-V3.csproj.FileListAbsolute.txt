@@ -1,0 +1,14 @@
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\bin\Debug\net8.0\RandomMusicPlaylist-V3.exe
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\bin\Debug\net8.0\RandomMusicPlaylist-V3.deps.json
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\bin\Debug\net8.0\RandomMusicPlaylist-V3.runtimeconfig.json
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\bin\Debug\net8.0\RandomMusicPlaylist-V3.dll
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\bin\Debug\net8.0\RandomMusicPlaylist-V3.pdb
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\RandomMusicPlaylist-V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\RandomMusicPlaylist-V3.AssemblyInfoInputs.cache
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\RandomMusicPlaylist-V3.AssemblyInfo.cs
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\RandomMusicPlaylist-V3.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\RandomMusicPlaylist-V3.dll
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\refint\RandomMusicPlaylist-V3.dll
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\RandomMusicPlaylist-V3.pdb
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\RandomMusicPlaylist-V3.genruntimeconfig.cache
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\RandomMusicPlaylist-V3\obj\Debug\net8.0\ref\RandomMusicPlaylist-V3.dll

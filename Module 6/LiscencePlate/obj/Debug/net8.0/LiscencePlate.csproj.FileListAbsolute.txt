@@ -1,0 +1,14 @@
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\bin\Debug\net8.0\LiscencePlate.exe
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\bin\Debug\net8.0\LiscencePlate.deps.json
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\bin\Debug\net8.0\LiscencePlate.runtimeconfig.json
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\bin\Debug\net8.0\LiscencePlate.dll
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\bin\Debug\net8.0\LiscencePlate.pdb
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\LiscencePlate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\LiscencePlate.AssemblyInfoInputs.cache
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\LiscencePlate.AssemblyInfo.cs
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\LiscencePlate.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\LiscencePlate.dll
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\refint\LiscencePlate.dll
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\LiscencePlate.pdb
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\LiscencePlate.genruntimeconfig.cache
+C:\Users\Jacob\Documents\1Classes\IT2040-main\Module 6\LiscencePlate\obj\Debug\net8.0\ref\LiscencePlate.dll

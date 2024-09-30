@@ -1,0 +1,14 @@
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/bin/Debug/net8.0/CharDemo
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/bin/Debug/net8.0/CharDemo.deps.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/bin/Debug/net8.0/CharDemo.runtimeconfig.json
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/bin/Debug/net8.0/CharDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/bin/Debug/net8.0/CharDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/CharDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/CharDemo.AssemblyInfoInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/CharDemo.AssemblyInfo.cs
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/CharDemo.csproj.CoreCompileInputs.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/CharDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/refint/CharDemo.dll
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/CharDemo.pdb
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/CharDemo.genruntimeconfig.cache
+/Users/krcd58/Library/CloudStorage/OneDrive-UniversityofMissouri/Documents/IT-2040/FA2024/class_demos/CharDemo/obj/Debug/net8.0/ref/CharDemo.dll
